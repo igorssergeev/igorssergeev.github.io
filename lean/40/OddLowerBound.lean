@@ -15,7 +15,7 @@ public import Mathlib.Analysis.SpecificLimits.Basic
 /-!
 # Lower bound for `μ(M_{d,n})` at odd `d`
 
-Formalisation of the argument of `cubic_th1.pdf`, giving the lower half of Theorem 1 of
+Formalisation of the argument, giving the lower half of Theorem 1 of
 Sergeev for odd `d`: `μ(M_{d,n}) ≽ n ^ ⌈d / 2⌉`, with the sharp constant
 `μ(M_{d,n}) ≥ (1 - o(1)) (⌈d/2⌉ - 1)! n^{⌈d/2⌉} / (3 d!)`.
 
